@@ -1,0 +1,21 @@
+# IDE systwm files
+/.idea
+/.vs
+/.vscode
+
+# Python internal
+/venv
+/.venv
+__pycache__/
+
+# Local app env and data
+/config.json
+/config
+/.env
+/*.sqlite
+
+# Log files
+/log/
+
+# Local copy of media and static files
+/media/
